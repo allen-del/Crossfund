@@ -1,9 +1,0 @@
-- USERS
-  - Create user
-  - Get user details
-  - Get user details of a campaign
-- CAMPAIGNS
-  - Create Campagin
-  - Get all campaigns
-  - Get campaign details by id
-  - Get campaign detail by user address
